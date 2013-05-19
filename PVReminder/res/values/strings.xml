@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Plan View Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="pvrTitle">Plan View Reminder</string>
+	<string name="completeButtonString">Completed</string>
+	<string name="reminderLaterString">Remind later</string>
+	<string name="warningErrorCallRing">Fail to call the mobile ring</string>
+	<string name="successCompleteMsg">Thank you!</string>
+	<string name="successReminderLaterMsg">Pls do not forget. I will remind you later</string>
+	<string name="disclaimer">
+	    This tool is contributed to assistent EBT colleagues filling PV system. 
+	    Version 1.1. All right reserved. 
+	    Author: liang.shen@citi.com
+	</string>
+	<string name="clockImage">Clock image</string>
+</resources>
